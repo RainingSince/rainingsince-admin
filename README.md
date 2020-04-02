@@ -1,57 +1,13 @@
-# Ant Design Pro
+## 后台管理框架封装
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+框架在 ant-design-pro 的基础上做了，自定义封装，以及 权限管理，角色管理和用户管理，方便快速搭建后台项目。
 
-## Environment Prepare
+### 框架说明文档 
 
-Install `node_modules`:
+[说明文档](http://doc.rainingsince.com/web/#/2?page_id=17)
 
-```bash
-npm install
-```
 
-or
+### 个人博客
 
-```bash
-yarn
-```
+[个人博客](http://rainingsince.com)
 
-## Provided Scripts
-
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start project
-
-```bash
-npm start
-```
-
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
